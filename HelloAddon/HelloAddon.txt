@@ -1,0 +1,5 @@
+## Title: Hello ESO World
+## APIVersion: 100008
+
+HelloAddon.lua
+HelloAddon.xml
