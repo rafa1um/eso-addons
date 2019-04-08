@@ -1,7 +1,8 @@
 local counter = 1
  
 function HelloAddOnUpdate()
-    HelloAddonCounter:SetText(string.format("Counter: %d", counter))
+    print("Hello, V H S cyberpunk")
+    HelloAddonCounter:SetText(string.format("Hello, V H S cyberpunk: %d", counter))
     counter = counter + 1
 end
  
